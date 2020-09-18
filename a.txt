@@ -2,3 +2,4 @@ Testando atualização de arquivos
 enviando
 a funcionalidade
 x
+funcionalidade b
