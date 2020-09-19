@@ -1,2 +1,3 @@
 Teste de diff
-Não funcionou
+Não funcionoug
+dif de arquivos
